@@ -1,16 +1,16 @@
-# React + Vite
+# Ganesh Thummala - Professional Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Engineering future-proof systems with a focus on Full-Stack Development, Machine Learning, and AI.
 
-Currently, two official plugins are available:
+## Technical Stack
+- **Mobile & Web**: Flutter, React, Django, Python, FastAPI, Redux
+- **AI & ML**: TensorFlow, OpenCV, Computer Vision, Deep Learning, Gen AI, LLMs
+- **Infrastructure**: PostgreSQL, GitHub, DevOps, REST APIs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Education
+- **B.Tech in CSE**: CMR College of Engineering & Technology (Ongoing)
+- **Diploma in CSE**: MITS College (9.3 CGPA)
+- **Schooling**: ZPHS Nadiguem (8.8 GPA)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+Built with React + Vite. Deployed on Vercel.
